@@ -1,1 +1,2 @@
-# cv is a basic website that is being developed in parallel learning to code..
+# cv 
+This is a basic website that is being developed while learning to code.
